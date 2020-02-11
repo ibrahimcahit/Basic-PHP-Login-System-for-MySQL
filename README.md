@@ -20,11 +20,7 @@ You need to change marked fields in the codes.
 
 
 ### login_config.php - Configuration of MySQL database credentials
-On this PHP file, you need to enter 4 values to connect database:
-* Server IP or URL
-* Username
-* Password
-* Database name
+Configuration of MySQL Database credentials
 
 * [login_config.php Code](https://github.com/ibrahimcahit/Basic-PHP-Login-System-for-MySQL/blob/master/PHP%20Files/login_config.php)
 
