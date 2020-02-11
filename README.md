@@ -16,6 +16,8 @@ Login system consists of three parts:
 * login_config.php
 * login_check.php
 
+You need to change marked fields in the codes.
+
 
 ### login_config.php - Configuration of MySQL database credentials
 On this PHP file, you need to enter 4 values to connect database:
