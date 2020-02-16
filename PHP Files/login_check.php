@@ -4,8 +4,6 @@
 Login Checker file for "PHP Login System For Websites"
 
 
-
-İbrahim Ozdemir - 2020
 */
 
 
