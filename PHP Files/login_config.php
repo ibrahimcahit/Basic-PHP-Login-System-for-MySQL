@@ -5,7 +5,6 @@ Configuration file for "PHP Login System For Websites"
 
 This configuration file created for MySQL databases
 
-İbrahim Ozdemir - 2020
 */
 
 // Update with your own credentials
